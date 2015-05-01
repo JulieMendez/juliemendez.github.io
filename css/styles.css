@@ -107,7 +107,7 @@ nav a {
 	margin: 10px;
 	padding-top: 5px;
 	color: #77787B;
-	font-size: 10px;
+	font-size: 11px;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -223,11 +223,10 @@ section.hero h3 {
 }
 }
 
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 429px) {
 section.hero h1 {
-	font-size: 28px;
-	margin-top: 18px;
-	letter-spacing: 0.5px;
+	font-size: 36px;
+	margin-top: 15px;
 }
 
 }
